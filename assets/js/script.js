@@ -48,7 +48,7 @@ function getItemsFromLocal() {
             ${task.text}
           </p>
         </div>
-
+        <h1>Hello world</h1>
         <div class="buttons">
          <button class="firstButton" onClick="editedTask(${index})"><i class="fa-solid fa-pen-to-square"></i></button> <button class="secondButton" onClick="deletedTask(${index})"><i class="ri-delete-bin-6-fill"></i></button>
         </div>
